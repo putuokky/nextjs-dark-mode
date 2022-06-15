@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 @layer base {
-  body{
-    @apply max-w-2xl mx-auto
+  body {
+    @apply max-w-2xl mx-auto px-4
   }
 }
