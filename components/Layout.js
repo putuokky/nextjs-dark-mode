@@ -9,6 +9,7 @@ const Layout = ({ children }) => {
         <title>Next Tailwind Theme</title>
         <meta name="description" content="Create Dark Mode in next and tailwind" />
       </Head>
+
       <div className="min-h-screen flex flex-col">
         <Header />
         <main className="flex-grow">
